@@ -37,15 +37,15 @@
  </tbody>
             <tr bgcolor="white">
                 <td style="color:red">Editing</td>
-                <td style="color:green">Taking clips from a movie and putting them into a video editor. The clips will be played to the beat of a song and will generally be of a certain character. It's meant to be fun and satisfying to watch. See the video above for an example.</td>
+                <td style="color:green">Taking clips from a movie or show (or anything, really) and putting them into a video editor. The clips will be played to the beat of a song and will generally be of a certain character. It's meant to be interesting and satisfying to watch. See the video above for an example.</td>
             </tr> 
             <tr bgcolor="white">
                 <td style="color:red">Soccer</td>
                 <td style="color:green">A game in which you are trying to kick the ball into the other team's goal. You can only use your feet in this game, unless you're the goalie, who stands in the goal to stop the kicks of the other team. It's fun and exhilerating to play, and requires a lot of skill with your feet.</td>           
             </tr>
             <tr bgcolor="white">
-                <td style="color:red">Minecraft</td>
-                <td style="color:green">A video game where everything is made entirely of cubes. In the game, your goal is to "mine" and "craft" your way to the end dimension, where you defeat (or at least try to defeat) the ender dragon. Watch out for the darkness, though, because monsters multiply in the dark.😱</td>
+                <td style="color:red">Jiu-Jitsu</td>
+                <td style="color:green">A martial art that doesn't use punching, it uses grappling, which is based off of grips, leverage, and technique. In jiu-jitsu, we learn a technique and practice it and then we fight each other in pairs (we call this rolling). It's fun and helps you learn self defence.</td>
                     <iframe width="400" height="200" src="https://www.youtube.com/embed/Eamgs-wsQOo" title="Captain America Edit - Stronger Than All of The Thunderbolts - Montagem Tomada #edit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                 </div>
