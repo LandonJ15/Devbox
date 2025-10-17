@@ -26,7 +26,6 @@
                     <a href="https://www.youtube.com/@ApocalypticEditzz15" target="_blank">Channel Link</a>
                     <p>Phone: (276) - 699 - 3116</p>
                     <p>Youtube:</p>
-                                </form>
         <table bgcolor="black">
             <thead>
                 <tr bgcolor="white">
