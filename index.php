@@ -12,7 +12,7 @@
     </head>
     <body>
         <div id="main">
-            <a href="/"><img src="/assets/codespaces.png" /></a>
+            <a href="/"><img src="/assets/download (1).png"/></a>
             <h1>Welcome!</h1>
             <h3>This is Landon's Github Codespaces.</h3>
             <p>Press "About Landon" to see the page about me!</p>
