@@ -14,8 +14,8 @@
          <div id="header">
             <div class="header-inner header-left">
            <button id="hamburger">
-    <?php include dirname(__FILE__) . '/assets/hamburger.svg'; ?>
-            </button>
+            <?php include dirname(__FILE__) . '/assets/hamburger.svg'; ?>
+    </button>
             <img id="logo" src="/assets/youtube.svg"/>
         </div> 
             <div class="header-inner header-center">
