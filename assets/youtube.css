@@ -1,13 +1,14 @@
 /* youtube.css */
 body,
 #header {
-    color: #ffffff;
+    color: #fff;
     background: #0f0f0f;
 }
 
 #header {
     display: grid;
     grid: auto-flow dense / 1fr 2fr 1fr;
+    padding: 0 16px;
 }
 
 button#hamburger {
@@ -33,7 +34,7 @@ button#hamburger svg {
 }
 
 button#hamburger svg path {
-    fill: #ffffff;
+    fill: #fff;
 }
 
 #logo {
@@ -73,7 +74,7 @@ form#search input[type=text]:active {
     background: none;
     border: none;
     outline: none;
-    color: #ffffff;
+    color: #fff;
     border-radius: 25px 0px 0px 25px;
     font-size: 16px;
 }
@@ -83,7 +84,7 @@ form#search input[type=submit] {
     padding: 10px;
     background: rgba(255, 255, 255, 0.2);
     border: none;
-    color:#ffffff;
+    color:#fff;
     outline: none;
     max-width: 75px;
     font-weight: bold;
@@ -110,8 +111,36 @@ button#voice-search {
     justify-content: center;
 }
 
-button#voice-search img{
+button#voice-search img,
+button#verticaldots svg {
     width: 24px;
     height: 24px;
     display: block;
+}
+button#verticaldots {
+    background: none;
+    border: none;
+    margin-right: 10px;
+}
+
+button#verticaldots svg path,
+button#user svg path {
+    fill: #fff;
+}
+
+button#user {
+    background: none;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 25px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 15px;
+    width: 100px;
+}
+
+button#user svg{
+    width: 24px;
+    height: 24px;
 }
